@@ -4,13 +4,13 @@ public class Pdemo3 {
         snacke.makeSound();
     }
 }
-class Animal {
+class Pdemo3Animal {
     int name;
     void makeSound() {
         System.out.println("Animal sound");
     }
 }
-class Snacke extends Animal {
+class Snacke extends Pdemo3Animal {
     void makeSound() {
         System.out.println("SSssszzz!");
     }
