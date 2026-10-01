@@ -1,4 +1,4 @@
-public class ajay2{
+public class sakib{
 static void main(String[] args){
     int[] arr = {5, 2, 8, 1, 5,3};
     for(int i=5; i>0; i--)

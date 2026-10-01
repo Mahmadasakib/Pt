@@ -11,8 +11,8 @@ public class Encapsulation {
 }
 class User{
     String name;
-    String bred;
-    int age;
+    int age;    String bred;
+
     String getName(){
         return this.name;
     }
